@@ -1,0 +1,1 @@
+# testripper-assets
